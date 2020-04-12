@@ -1,0 +1,15 @@
+P Ford Car Review Dog
+P Review Car Dog
+P Review Ford Dog Dog
+P Toyota Car Toyota
+P Honda Car Dog
+P Car Dog
+P Dog
+
+Q Ford
+Q Car
+Q Review
+Q Ford Review
+Q Ford Car
+Q cooking French
+Q Toyota Dog 
